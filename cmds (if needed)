@@ -3,3 +3,4 @@ sudo apt-get update
 
 # Install the X server and development libraries
 sudo apt-get install -y xserver-xorg xinit libx11-dev xterm build-essential
+sudo apt-get install libimlib2-dev
